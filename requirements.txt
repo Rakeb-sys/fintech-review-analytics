@@ -1,0 +1,7 @@
+matplotlib
+seaborn
+scipy
+textblob
+google-play-scraper
+pandas
+numpy
