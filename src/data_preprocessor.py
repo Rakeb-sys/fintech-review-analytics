@@ -86,6 +86,7 @@ def invalid_reviews(df):
     print(f"Remaining reviews after removing invalid ratings: {len(df)}")
     df['rating'] = df['rating'].astype(int)
     print(f"Data type of 'rating' column: {df['rating'].dtype}")
+    return df
 
 
 def save_cleaned_data(cleaned_data, data_name):
