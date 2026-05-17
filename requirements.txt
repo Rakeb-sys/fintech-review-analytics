@@ -5,3 +5,5 @@ textblob
 google-play-scraper
 pandas
 numpy
+wordcloud
+scikit-learn

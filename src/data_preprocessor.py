@@ -104,7 +104,7 @@ def save_cleaned_data(cleaned_data, data_name):
 
 def preprocessing_report(df_raw, df_clean):
     print("=" * 55)
-    print("  PREPROCESSING REPORT — Awash Bank Reviews")
+    print("  PREPROCESSING REPORT — Reviews")
     print("=" * 55)
 
     original_count = len(df_raw)
