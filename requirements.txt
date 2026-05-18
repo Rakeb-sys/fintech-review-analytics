@@ -7,3 +7,6 @@ pandas
 numpy
 wordcloud
 scikit-learn
+transformers
+torch
+tqdm
